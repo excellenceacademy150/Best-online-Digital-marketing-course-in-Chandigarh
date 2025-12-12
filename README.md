@@ -1,6 +1,5 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://excellenceacademy.co.in/wp-content/uploads/2024/11/cropped-Excellence-Academy-Logo.png" width="160" alt="Excellence Academy Logo">
 </p>
 
 <h1 align="center">🚀 Excellence Academy – Digital Marketing Course</h1>
