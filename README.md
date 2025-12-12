@@ -1,47 +1,104 @@
-Best Online Digital Marketing Course in Chandigarh | Learn SEO, SMM, Ads, Canva & More
-December 12, 2025
+<!-- PROJECT LOGO -->
+<p align="center">
+  <img src="https://excellenceacademy.co.in/wp-content/uploads/2024/11/cropped-Excellence-Academy-Logo.png" width="160" alt="Excellence Academy Logo">
+</p>
 
-Digital Marketing Course Information
+<h1 align="center">🚀 Excellence Academy – Digital Marketing Course</h1>
+<h3 align="center">Master SEO • SMM • Google Ads • Meta Ads • Canva • Email Marketing • Content Writing • Lead Generation</h3>
 
-Looking to build a high-income career in Digital Marketing?
-Join Excellence Academy, Chandigarh’s top digital marketing institute, offering a complete skill-based digital marketing course designed for beginners and working professionals.
+<!-- WEBSITE BUTTON -->
+<p align="center">
+  <a href="https://excellenceacademy.co.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Excellence Academy Website">
+  </a>
+</p>
 
-What You Will Learn:
-✔ Search Engine Optimization (SEO)
-✔ Social Media Marketing (SMM)
-✔ Google Ads & Meta Ads Management
-✔ Canva Pro Designing
-✔ Email Marketing
-✔ Social Media Optimization (SMO)
-✔ Content Writing Techniques
-✔ Lead Generation Strategies
+---
 
-Why Choose Us?
-✨ Practical, job-oriented training
-✨ Live campaigns & real projects
-✨ Industry-recognized certification
-✨ 1-on-1 mentorship
-✨ Career guidance & interview prep
+# 🎯 About the Course  
+The **Digital Marketing Course by Excellence Academy** is designed for students, job seekers, freelancers, and business owners who want to learn real digital marketing skills that work in 2025 and beyond.
 
-📞 +91 93562 55522
+This program includes **live practical training**, **real campaigns**, **industry tools**, and **portfolio-building tasks** to help you become job-ready.
 
-Enroll now
+---
 
-start your digital marketing journey!
-📍 Location: Chandigarh
-🎓 Excellence Academy — Learn. Grow. Succeed.
+# 📚 Course Modules Overview
 
+| Module | Topics Covered |
+|--------|----------------|
+| 🔍 **SEO** | On-page, Off-page, Technical SEO, Keywords, Search Console, Analytics |
+| 📱 **SMM** | Instagram, Facebook, LinkedIn Growth Strategies |
+| 🎯 **Google & Meta Ads** | Full Campaign Setup, Optimization, Retargeting |
+| 🎨 **Canva Designing** | Posters, Thumbnails, Reels Editing, Branding |
+| ✉️ **Email Marketing** | Campaign Setup, Automations, Funnels |
+| 🖋 **Content Writing** | Blog Writing, Ad Copy, Social Content |
+| 🔗 **Lead Generation** | Organic Leads, Paid Leads, Funnels, CRM |
 
-Digital Marketing
+---
 
+# ⭐ Why Choose Excellence Academy?
 
-SEO
+✔ 100% Practical Training  
+✔ Real Projects + Assignments  
+✔ Work on Live Campaigns  
+✔ Portfolio + Resume Support  
+✔ One-on-One Mentorship  
+✔ Industry Certification  
+✔ Beginner-Friendly Curriculum  
 
+---
 
-Python Programming
+# 👨‍🎓 Who Can Join?
 
+- Students  
+- Freelancers  
+- Job Seekers  
+- Business Owners  
+- Influencers & Creators  
+- Anyone wanting to build digital skills  
 
-Coding
+---
 
+# 🌐 Visit Our Website  
+To explore full course details, new batches, and portfolios:
 
-Content Writing
+<p align="left">
+  <a href="https://excellenceacademy.co.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
+
+---
+
+# 🔗 Social Media (Add Your Links)
+
+- Facebook  
+- Instagram  
+- LinkedIn  
+- YouTube  
+- Pinterest  
+
+*(You can update these with your actual URLs.)*
+
+---
+
+# 🏆 Contribute  
+Have suggestions to improve this repository?  
+Pull requests and issue reports are always welcome.
+
+---
+
+# ⭐ Support Us  
+If you find this project helpful, **please give it a ⭐ on GitHub**.  
+Your support helps Excellence Academy reach and train more students!
+
+---
+
+# 🏫 Excellence Academy  
+Empowering students with practical digital skills.
+
+---
+
+# 🔍 Recommended GitHub Topics (SEO)  
+Add these in the "Topics" section of your repository:
+
